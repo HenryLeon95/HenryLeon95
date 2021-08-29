@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/henry-francisco-le%C3%B3n-hern%C3%A1ndez/"><img src="https://img.shields.io/badge/-Henry%20León%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:henriscoh1995@gmail.com"><img src="https://img.shields.io/badge/-henriscoh1995@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+<hr>
 
 ### I little bit about me and my skills🙃
 💡 &nbsp;I like to explore new cloud native technologies.\
@@ -26,7 +27,26 @@
   - I usually go to church on Sundays.
 
 👯 &nbsp;I’m looking to collaborate with different organizations and companies for software development and I am currently looking for a job to further expand my knowledge.
+<hr>
 
+### My jobs 😎
+I have approximately 2-4 years of experience working independently and in development with agile methodologies and others in different companies.
+
+#### OpenDigital:
+I worked developing different programs, some of those systems were and functions were:
+- Development of the Database model.
+- Users Management.
+- Product inventory management.
+- Microsystem of billing.
+
+#### CISA Corporation:
+I worked as a developer developing different microservices:
+- Inventory service.
+- Buying and selling service.
+- Shipping service.
+- Rating service.
+- Billing Service.
+<hr>
 
 ### Contact 📫
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to choose a place to talk with me.\
