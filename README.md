@@ -51,7 +51,7 @@ I worked as a developer developing different microservices:
 
 ### Contact 📫
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to choose a place to talk with me.\
-✉️  &nbsp;You can shoot me an email at henriscoh1995@gmail.com! It will be a pleasure to talk with you!.
+✉️  &nbsp;You can shoot me an email at henriscoh1995@gmail.com or a call or message at +50254682407! It will be a pleasure to talk with you!.
 <hr>
 
 
@@ -59,7 +59,7 @@ I worked as a developer developing different microservices:
 
 <p align="center">
 <a href="https://github.com/HenryLeon95">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenryLeon95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenryLeon95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenryLeon95&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
