@@ -10,8 +10,9 @@
 <hr>
 
 ### I little bit about me and my skills🙃
-💡 &nbsp;I like to explore new cloud native technologies.\
 🎓 &nbsp;I'm currently studying Science and Systems Engineering at the University of San Carlos de Guatemala.\
+✨ &nbsp;I consider myself a person with confidence in myself and with high learning abilities, someone who likes to try new things trying to achieve success regardless of the faults or mistakes made along the way.\
+💡 &nbsp;I like to explore new cloud native technologies.\
 🌱 &nbsp;I'm on my way to learn more about what I already know:
 - Relational and non-relational databases.
 - Cutting-edge technologies like React, Angular, NodeJs, and Python.
