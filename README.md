@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HenryLeon95"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Developer;Python+%C2%B7+Flask+%C2%B7+Angular;Integraciones+con+entidades+de+Latinoam%C3%A9rica;Abierto+a+trabajo+100%25+remoto+%F0%9F%8C%8E" alt="Typing SVG"/></a>
+  <a href="https://github.com/HenryLeon95"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Developer;Python+%C2%B7+Flask+%C2%B7+Django+%C2%B7+Angular;Node.js+%C2%B7+AWS+%C2%B7+GCP;Abierto+a+trabajo+100%25+remoto+%F0%9F%8C%8E" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -32,122 +32,98 @@
 
 ## 🙋‍♂️ Sobre mí
 
-Soy Ingeniero en Ciencias y Sistemas, graduado de la Universidad de San Carlos de Guatemala, y Senior Full Stack Developer con experiencia en plataformas de seguros, ventas, facturación e integraciones con entidades de Latinoamérica.
+Ingeniero en Ciencias y Sistemas (USAC, 2024) y Senior Full Stack Developer con experiencia en plataformas de seguros, ventas y facturación, e integraciones JSON/XML con entidades de Latinoamérica.
 
-Trabajo principalmente con Python y Flask en backend y Angular en frontend. Participo en el análisis de requerimientos, propuesta de soluciones, desarrollo, pruebas, pases a producción y monitoreo de sistemas.
+Trabajo principalmente con Python (Flask, Django) y Node.js en backend y Angular en frontend. Participo en el análisis de requerimientos, la propuesta de soluciones, el desarrollo, las pruebas, los pases a producción y el monitoreo.
 
-Disfruto entender cómo funcionan los sistemas, investigar soluciones y convertir necesidades de negocio en software mantenible. He desarrollado aplicaciones de forma individual y colaborado con equipos de distintos tamaños, apoyando a compañeros y participando en decisiones técnicas junto con arquitectos.
+Disfruto entender cómo funcionan los sistemas y convertir necesidades de negocio en software mantenible. Busco colaborar con equipos internacionales y seguir creciendo en arquitectura de software, cloud e inteligencia artificial.
 
-Busco colaborar con equipos internacionales donde pueda aportar mi experiencia y seguir creciendo en arquitectura de software, cloud, automatización e inteligencia artificial.
+## 📌 Proyectos destacados
 
-## 💼 Experiencia y contribuciones
+| Proyecto | Qué demuestra | Stack |
+|---|---|---|
+| [**TESIS** · Búsqueda de personas desaparecidas](https://github.com/HenryLeon95/TESIS) | Reconocimiento facial con Amazon Rekognition, ciclo de alertas con transacciones, portal estadístico con Google Maps (mapa de calor) y Chart.js | Angular 16, Node.js/Express, MySQL, AWS S3/Rekognition, Cloudinary, EC2 |
+| [**Sistema distribuido multi-nube** (equipo)](https://github.com/HenryLeon95/SOPES1G21_2S2021) | API en Rust con publicación en GCP Pub/Sub, servicio Rust + MongoDB, subscriber en Node.js, módulos de kernel Linux en C, despliegue en Cloud Run | Rust, Go, Node.js, C, GCP, Docker |
+| [**LOAD_TESTING**](https://github.com/HenryLeon95/LOAD_TESTING) | Generación de tráfico y pruebas de carga contra Cloud Run, Cloud Functions y balanceadores | Locust, Python, Go |
+| [**Senacyt**](https://github.com/HenryLeon95/Senacyt) | Prueba técnica: API REST con pruebas automatizadas y frontend | Node.js/Express, MySQL, Mocha/Chai, React, Docker |
+| [**apiRust**](https://github.com/HenryLeon95/apiRust) | API en Rust con MySQL en GCP | Rust, MySQL |
+
+> Parte de mi trabajo profesional (Grupo Asys, Open Digital) está en repositorios privados. Puedo mostrar demos bajo solicitud.
+
+## 💼 Experiencia
 
 ### 🏢 Grupo Asys · Senior Full Stack Developer
+**Marzo de 2023 – actualidad** · Antes: Full Stack Developer Junior (octubre de 2021 – marzo de 2023)
 
-**Marzo de 2023 – actualidad**  
-Anteriormente: Full Stack Developer Junior · Octubre de 2021 – marzo de 2023.
-
-- Desarrollo de CORE, una plataforma configurable de seguros actualmente en construcción. Soy responsable del módulo de emisión de pólizas y del mapper dinámico que adapta datos a los formatos JSON/XML de entidades externas.
-- Implementación de validaciones, control transaccional, prevención de emisiones duplicadas, históricos de fallos y mecanismos de reenvío a terceros.
-- Desarrollo de un servicio genérico de ventas, cotización y emisión configurable desde la base de datos, que reemplazó archivos específicos por sponsor.
-- Integraciones con aseguradoras, bancos y otras entidades de Latinoamérica, junto con soporte y resolución de errores en producción.
-- Desarrollo integral de una solución para detectar y censurar información sensible en grabaciones mediante Amazon Transcribe y pydub; continúa en uso.
-- Coordinación de cuatro compañeros durante tres meses en el desarrollo de S2+, un sistema interno que sigue en producción, facilitando prácticas de Scrum.
+- CORE, plataforma configurable de seguros (en desarrollo): desarrollé de forma individual el módulo de emisión de pólizas y el mapper dinámico que adapta datos al JSON/XML de cada entidad.
+- Emisión con validaciones (Marshmallow, regex) y control transaccional, prevención de emisiones duplicadas, histórico de fallos y reenvío a terceros.
+- Servicio genérico de ventas, cotización y emisión configurable desde base de datos, que reemplazó archivos específicos por sponsor.
+- Integraciones con aseguradoras, bancos y otras entidades de Latinoamérica; soporte y resolución de errores en producción.
+- Solución completa para detectar y censurar información sensible en grabaciones con Amazon Transcribe y pydub; sigue en uso.
+- Coordiné a cuatro compañeros durante tres meses en S2+, sistema interno que sigue en producción, facilitando Scrum.
 
 ### 🏢 Open Digital · Desarrollador de Software
+**Junio de 2020 – julio de 2021** · Después: desarrollador externo por contrato en proyectos puntuales (2022 y 2024)
 
-**Junio de 2020 – julio de 2021**
-
-- Desarrollo individual de un sistema de facturación e inventario con Django, HTML y CSS.
-- Desarrollo de la página web con Django, HTML, CSS y Bootstrap.
-- Ambas soluciones continúan en uso.
+- Desarrollé de forma individual un sistema de facturación, inventario, cotizaciones, ventas y garantías con Django y PostgreSQL, con facturas y reportes en PDF.
+- Página web de la empresa con Django y Bootstrap. Ambas soluciones siguen en uso.
+- Por contrato: participé en la integración de facturación electrónica FEL/DTE con un certificador autorizado, y en mantenimiento y nuevas funcionalidades.
 
 ### 🏢 CISA · Desarrollador de Software
-
 **Noviembre de 2018 – diciembre de 2019**
 
-- Digitalización de procesos de inventario y facturación previamente gestionados en Excel.
-- Desarrollo con Node.js, Angular, Python, Flask, Django y PostgreSQL.
-- Trabajo con una arquitectura de microservicios en AWS EC2, con apoyo de un arquitecto en el despliegue.
-- Configuración de un balanceador de carga y funciones AWS Lambda para procesamiento de documentos y reportes periódicos.
+- Digitalización de procesos de inventario, compras, ventas, envíos y facturación gestionados en Excel, con Node.js, Angular, Python (Flask, Django), PostgreSQL y MySQL.
+- Microservicios en AWS EC2, con apoyo de un arquitecto en el despliegue; balanceador de carga y funciones AWS Lambda para documentos y reportes periódicos.
 
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,django,angular,html,css,bootstrap,mysql,postgres,aws,gcp,firebase,react,ts,nodejs,git&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,flask,django,nodejs,express,angular,ts,bootstrap,mysql,postgres,mongodb,aws,gcp,firebase,docker,git,rust,go&perline=9" alt="Tech stack"/>
 </p>
 
-| Área | Experiencia |
+| Área | Tecnologías |
 |---|---|
-| Backend | Python, Flask, Django, Marshmallow, APIs y Web Services |
-| Frontend | Angular, HTML, CSS, Bootstrap |
-| Bases de datos | MySQL, PostgreSQL |
-| Integraciones | JSON/XML, mapeo de datos, validaciones y reglas de negocio |
-| Cloud | AWS: EC2, S3, Lambda y balanceador de carga; GCP y Firebase |
-| IA aplicada | Amazon Transcribe, pydub y participación puntual en una integración con Amazon Bedrock |
-| Desarrollo asistido por IA | GitHub Copilot, Codex y Claude |
-| Colaboración y operación | Scrum, soporte y monitoreo de sistemas en producción |
-| Desarrollo móvil · proyecto personal | React Native, Expo y TypeScript |
-
-### 📚 Conocimientos básicos y experiencia complementaria
-
-- **Experiencia profesional previa:** Node.js.
-- **Conocimientos básicos:** Oracle 11g+, SQL Server, AngularJS, Java, C, C++, C#, Visual Basic y Power BI.
-- **Otros conocimientos:** nociones de Kafka, TIC y conceptos de aprendizaje automático.
+| Backend | Python, Flask, Django, DRF, Marshmallow · Node.js, Express · APIs REST |
+| Frontend | Angular, TypeScript, Bootstrap, Chart.js, Google Maps API |
+| Datos | MySQL, PostgreSQL (transacciones, históricos) · MongoDB |
+| Integraciones | JSON/XML, mapeo de datos, reglas de negocio, FEL/DTE, generación de PDF |
+| Cloud | AWS (EC2, S3, RDS, Lambda, balanceador de carga) · GCP (Cloud Run) · Firebase · Cloudinary |
+| Mensajería | GCP Pub/Sub · Apache Kafka (proyecto académico) · pruebas de carga con Locust |
+| Testing y entrega | unittest, Behave, Mocha/Chai · Docker, Docker Compose · Git Flow |
+| IA aplicada | Amazon Transcribe, pydub, Rekognition · participación puntual en Amazon Bedrock |
+| Desarrollo con IA | GitHub Copilot, Codex, Claude |
+| Otros | Go, Rust, C (módulos de kernel Linux), C#, Java, Oracle, SQL Server, Power BI |
 
 ## 🤖 Desarrollo asistido por IA
 
-Utilizo GitHub Copilot de forma habitual para desarrollar componentes Angular, servicios Python y scripts DDL, y apoyar la revisión de sistemas existentes. Reviso el código generado y realizo pruebas funcionales.
-
-También he creado, junto con un compañero, instrucciones reutilizables para generar DDL y componentes Angular a partir de requerimientos.
-
-Actualmente profundizo en LLM, agentes de IA y orquestación, con el objetivo de aplicar estos conocimientos en proyectos prácticos.
+Uso GitHub Copilot a diario para componentes Angular, servicios Python y scripts DDL, con revisión del código generado y pruebas funcionales. Soy coautor de instrucciones reutilizables para generar DDL y componentes Angular a partir de requerimientos. Actualmente profundizo en LLM, agentes de IA y orquestación.
 
 ## 🚀 Iniciativa emprendedora
 
 ### 💜 HENGGI · Aplicación de citas y conexión social
+*Proyecto personal en desarrollo, con lanzamiento previsto para 2027.*
 
-*Proyecto personal en desarrollo, orientado a su lanzamiento.*
+Desarrollo una aplicación móvil con React Native, Expo (Expo Router) y TypeScript, con backend en NestJS, PostgreSQL y Prisma, y Firebase.
 
-Desarrollo una aplicación móvil con React Native, Expo y TypeScript.
+**Avance actual:** base de la app, componentes reutilizables, diseño de interfaz, almacenamiento seguro y estructura de autenticación, registro e identidad.
 
-El alcance previsto incluye registro y autenticación, perfiles y preferencias, descubrimiento mediante tarjetas y filtros, búsqueda por cercanía, chat, videollamadas y conexiones instantáneas.
+**Alcance planificado:** perfiles y preferencias, descubrimiento mediante tarjetas y filtros, búsqueda por cercanía, chat, videollamadas y conexiones instantáneas. También contempla interacción entre usuarios y anfitriones, monedas virtuales, regalos, pagos y gestión de ganancias, junto con verificación de identidad, controles de privacidad y seguridad.
 
-También contempla interacción entre usuarios y anfitriones, monedas virtuales, regalos, pagos y gestión de ganancias, junto con verificación de identidad, controles de privacidad y seguridad.
+Estas funcionalidades se desarrollan por etapas. *Código privado.*
 
-Estas funcionalidades forman parte del alcance planificado y se desarrollan por etapas.
+## 🎓 Formación y certificaciones
 
-## 🎓 Formación y aprendizaje
+- 🎓 **Ingeniero en Ciencias y Sistemas (Licenciatura)** · Universidad de San Carlos de Guatemala · 2024
+- 🔐 **LFD121: Developing Secure Software** · The Linux Foundation · 2026 · [Ver credencial](https://www.credly.com/badges/109204c4-0afb-4bf1-baff-5f8592efd724/public_url)
+- 🏅 **Scrum Fundamentals Certified (SFC)** · SCRUMstudy · 2023 · ID 976783 · [Ver certificado](https://drive.google.com/file/d/17fnfeEaT0kJDXmE0eHQai6_C-y69gf_b/view)
+- ☁️ **IT Academy: Cloud and Virtualization Concepts** · VMware IT Academy · 2021 · [Ver credencial](https://www.credly.com/badges/21f128d8-9f4a-4d6a-9a00-1e16dbaa3091/linked_in)
+- 🌱 **En preparación:** AWS Certified Cloud Practitioner · LLM y agentes de IA · inglés y francés (Academia Europea)
 
-### 🎓 Ingeniero en Ciencias y Sistemas · Licenciatura
+## 🗣️ Idiomas y disponibilidad
 
-Universidad de San Carlos de Guatemala · 2024.
+- 🇬🇹 **Español:** idioma principal · 🇺🇸 **Inglés:** básico, en formación · 🇫🇷 **Francés:** inicial, en formación
 
-### 🏅 Scrum Fundamentals Certified — SFC
-
-SCRUMstudy · Mayo de 2023 · ID 976783.  
-[Ver certificado](https://drive.google.com/file/d/17fnfeEaT0kJDXmE0eHQai6_C-y69gf_b/view)
-
-### ☁️ IT Academy: Cloud and Virtualization Concepts
-
-VMware IT Academy · Octubre de 2021.  
-[Ver credencial](https://www.credly.com/badges/21f128d8-9f4a-4d6a-9a00-1e16dbaa3091/linked_in)
-
-### 🌱 Aprendizaje actual
-
-- Preparación para el examen AWS Certified Cloud Practitioner.
-- LLM, agentes de IA y orquestación.
-- Formación en inglés y francés en Academia Europea.
-
-## 🗣️ Idiomas y oportunidades
-
-- 🇬🇹 **Español:** idioma principal.
-- 🇺🇸 **Inglés:** básico, en formación; lectura de documentación técnica y comunicación sencilla.
-- 🇫🇷 **Francés:** inicial, en formación.
-
-Me interesan oportunidades como Senior Full Stack Developer, Backend Developer, Software Engineer o Python Developer, principalmente en equipos con comunicación en español.
-
-Busco trabajo 100 % remoto con alcance internacional. Estoy disponible para viajes laborales y puedo considerar una reubicación según la oportunidad.
+Busco oportunidades 100 % remotas como Senior Full Stack, Backend, Python Developer o Software Engineer, preferentemente con comunicación en español. Disponible para viajes laborales; traslado a considerar según la oportunidad.
 
 ## ☕ Fuera del código
 
@@ -174,7 +150,7 @@ Disfruto leer sobre tecnología, ciencia, arqueología y astronomía; tocar bajo
 </p>
 
 <p align="center">
-  <a href="https://github.com/HenryLeon95"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Developer;Python+%C2%B7+Flask+%C2%B7+Angular;Integrations+across+Latin+America;Open+to+fully+remote+roles+%F0%9F%8C%8E" alt="Typing SVG"/></a>
+  <a href="https://github.com/HenryLeon95"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Developer;Python+%C2%B7+Flask+%C2%B7+Django+%C2%B7+Angular;Node.js+%C2%B7+AWS+%C2%B7+GCP;Open+to+fully+remote+roles+%F0%9F%8C%8E" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -190,124 +166,98 @@ Disfruto leer sobre tecnología, ciencia, arqueología y astronomía; tocar bajo
 
 ## 🙋‍♂️ About me
 
-I am a Computer Science and Systems Engineering graduate from Universidad de San Carlos de Guatemala and a Senior Full Stack Developer based in Guatemala City.
+Computer Science and Systems Engineering graduate (USAC, 2024) and Senior Full Stack Developer with experience in insurance, sales and billing platforms and JSON/XML integrations with organizations across Latin America.
 
-My experience includes insurance, sales and billing platforms, as well as integrations with organizations across Latin America. I primarily work with Python and Flask on the backend and Angular on the frontend.
+I mainly work with Python (Flask, Django) and Node.js on the backend and Angular on the frontend. I take part in requirements analysis, technical proposals, development, testing, production releases and monitoring.
 
-I contribute to requirements analysis, technical proposals, development, testing, production releases and monitoring. I have built applications independently and worked with teams of different sizes, supporting colleagues and collaborating with architects on technical decisions.
+I enjoy understanding how systems work and turning business needs into maintainable software. I'm looking to work with international teams and keep growing in software architecture, cloud and artificial intelligence.
 
-I enjoy understanding how systems work, investigating solutions and turning business requirements into maintainable software.
+## 📌 Selected projects
 
-I am interested in working with international teams where I can contribute my experience and continue developing my skills in software architecture, cloud, automation and artificial intelligence.
+| Project | What it shows | Stack |
+|---|---|---|
+| [**TESIS** · Missing-persons search platform](https://github.com/HenryLeon95/TESIS) | Face recognition with Amazon Rekognition, transactional alert lifecycle, statistics portal with a Google Maps heatmap and Chart.js | Angular 16, Node.js/Express, MySQL, AWS S3/Rekognition, Cloudinary, EC2 |
+| [**Multi-cloud distributed system** (team)](https://github.com/HenryLeon95/SOPES1G21_2S2021) | Rust API publishing to GCP Pub/Sub, Rust + MongoDB service, Node.js subscriber, Linux kernel modules in C, Cloud Run deployment | Rust, Go, Node.js, C, GCP, Docker |
+| [**LOAD_TESTING**](https://github.com/HenryLeon95/LOAD_TESTING) | Traffic generation and load testing against Cloud Run, Cloud Functions and load balancers | Locust, Python, Go |
+| [**Senacyt**](https://github.com/HenryLeon95/Senacyt) | Technical assessment: REST API with automated tests and a frontend | Node.js/Express, MySQL, Mocha/Chai, React, Docker |
+| [**apiRust**](https://github.com/HenryLeon95/apiRust) | Rust API backed by MySQL on GCP | Rust, MySQL |
 
-## 💼 Experience and contributions
+> Part of my professional work (Grupo Asys, Open Digital) lives in private repositories. Demos available upon request.
+
+## 💼 Experience
 
 ### 🏢 Grupo Asys · Senior Full Stack Developer
+**March 2023 – present** · Previously: Junior Full Stack Developer (October 2021 – March 2023)
 
-**March 2023 – present**  
-Previously: Junior Full Stack Developer · October 2021 – March 2023.
-
-- Developing CORE, a configurable insurance platform currently under construction. Responsible for the policy issuance module and dynamic mapper that adapts data to external organizations’ JSON/XML formats.
-- Implemented validation, transaction control, duplicate issuance prevention, failure history and third-party resubmission mechanisms.
-- Developed a database-configured service for sales, quotations and policy issuance, replacing sponsor-specific files.
-- Integrated services with insurers, banks and other organizations across Latin America, alongside production support and incident resolution.
-- Built an end-to-end solution that detects and masks sensitive information in call recordings using Amazon Transcribe and pydub; still in use.
-- Coordinated four colleagues for three months on S2+, an internal system still in production, facilitating Scrum practices.
+- CORE, a configurable insurance platform (in development): independently built the policy issuance module and the dynamic mapper that adapts data to each organization's JSON/XML format.
+- Issuance with validation (Marshmallow, regex) and transaction control, duplicate-issuance prevention, failure history and third-party resubmission.
+- Generic sales, quotation and issuance service configured from the database, replacing sponsor-specific files.
+- Integrations with insurers, banks and other organizations across Latin America; production support and incident resolution.
+- End-to-end solution that detects and masks sensitive information in call recordings with Amazon Transcribe and pydub; still in use.
+- Coordinated four colleagues for three months on S2+, an internal system still in production, facilitating Scrum.
 
 ### 🏢 Open Digital · Software Developer
+**June 2020 – July 2021** · Later: external contract developer for specific projects (2022 and 2024)
 
-**June 2020 – July 2021**
-
-- Independently developed a billing and inventory system with Django, HTML and CSS.
-- Built the company website with Django, HTML, CSS and Bootstrap.
-- Both solutions remain in use.
+- Independently built a billing, inventory, quotation, sales and warranty system with Django and PostgreSQL, including PDF invoices and reports.
+- Built the company website with Django and Bootstrap. Both solutions are still in use.
+- As a contractor: contributed to the Guatemalan e-invoicing (FEL/DTE) integration with an authorized certifier, plus maintenance and new features.
 
 ### 🏢 CISA · Software Developer
-
 **November 2018 – December 2019**
 
-- Replaced Excel-based inventory and billing workflows with software.
-- Developed services using Node.js, Angular, Python, Flask, Django and PostgreSQL.
-- Worked with a microservices architecture on AWS EC2, with an architect supporting deployment.
-- Configured a load balancer and AWS Lambda functions for document processing and scheduled reports.
+- Moved Excel-based inventory, purchasing, sales, shipping and billing processes into systems built with Node.js, Angular, Python (Flask, Django), PostgreSQL and MySQL.
+- Microservices on AWS EC2, working with an architect on deployment; configured the load balancer and AWS Lambda functions for documents and scheduled reports.
 
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,django,angular,html,css,bootstrap,mysql,postgres,aws,gcp,firebase,react,ts,nodejs,git&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,flask,django,nodejs,express,angular,ts,bootstrap,mysql,postgres,mongodb,aws,gcp,firebase,docker,git,rust,go&perline=9" alt="Tech stack"/>
 </p>
 
-| Area | Experience |
+| Area | Technologies |
 |---|---|
-| Backend | Python, Flask, Django, Marshmallow, APIs and Web Services |
-| Frontend | Angular, HTML, CSS, Bootstrap |
-| Databases | MySQL, PostgreSQL |
-| Integrations | JSON/XML, data mapping, validation and business rules |
-| Cloud | AWS: EC2, S3, Lambda and load balancing; GCP and Firebase |
-| Applied AI | Amazon Transcribe, pydub and limited involvement in an Amazon Bedrock integration |
-| AI-assisted development | GitHub Copilot, Codex and Claude |
-| Collaboration and operations | Scrum, production support and monitoring |
-| Mobile development · personal project | React Native, Expo and TypeScript |
-
-### 📚 Foundational knowledge and additional experience
-
-- **Previous professional experience:** Node.js.
-- **Foundational knowledge:** Oracle 11g+, SQL Server, AngularJS, Java, C, C++, C#, Visual Basic and Power BI.
-- **Additional knowledge:** basic exposure to Kafka, ICT and machine learning concepts.
+| Backend | Python, Flask, Django, DRF, Marshmallow · Node.js, Express · REST APIs |
+| Frontend | Angular, TypeScript, Bootstrap, Chart.js, Google Maps API |
+| Data | MySQL, PostgreSQL (transactions, history tracking) · MongoDB |
+| Integrations | JSON/XML, data mapping, business rules, FEL/DTE e-invoicing, PDF generation |
+| Cloud | AWS (EC2, S3, RDS, Lambda, load balancer) · GCP (Cloud Run) · Firebase · Cloudinary |
+| Messaging | GCP Pub/Sub · Apache Kafka (academic project) · load testing with Locust |
+| Testing & delivery | unittest, Behave, Mocha/Chai · Docker, Docker Compose · Git Flow |
+| Applied AI | Amazon Transcribe, pydub, Rekognition · limited involvement in Amazon Bedrock |
+| AI-assisted development | GitHub Copilot, Codex, Claude |
+| Other | Go, Rust, C (Linux kernel modules), C#, Java, Oracle, SQL Server, Power BI |
 
 ## 🤖 AI-assisted development
 
-I regularly use GitHub Copilot to develop Angular components, Python services and DDL scripts, and support reviews of existing systems. I review generated code and perform functional testing.
-
-I also co-authored reusable instructions for generating DDL scripts and Angular components from requirements.
-
-I am currently learning about LLMs, AI agents and orchestration, with the goal of applying these skills in practical projects.
+I use GitHub Copilot daily for Angular components, Python services and DDL scripts, reviewing generated code and running functional tests. I co-authored reusable instructions for generating DDL scripts and Angular components from requirements, and I'm currently learning about LLMs, AI agents and orchestration.
 
 ## 🚀 Entrepreneurial initiative
 
 ### 💜 HENGGI · Dating and Social Connection App
+*Personal project in development, planned launch in 2027.*
 
-*Personal project in development, working toward launch.*
+I'm building a mobile app with React Native, Expo (Expo Router) and TypeScript, with a NestJS backend, PostgreSQL and Prisma, and Firebase.
 
-Developing a mobile application with React Native, Expo and TypeScript.
+**Progress so far:** app foundation, reusable components, UI design, secure storage, and the authentication, registration and identity structure.
 
-Planned features include registration and authentication, user profiles and preferences, card-based discovery and filters, nearby discovery, chat, video calls and instant matching.
+**Planned scope:** profiles and preferences, card-based discovery with filters, proximity search, chat, video calls and instant connections. It also includes user–host interaction, virtual coins, gifts, payments and earnings management, along with identity verification, privacy and safety controls.
 
-The scope also covers user–host interactions, virtual coins, gifts, payments and earnings management, alongside identity verification, privacy controls and security.
+These features are being built in stages. *Private codebase.*
 
-These features form part of the planned scope and are being developed in stages.
+## 🎓 Education and certifications
 
-## 🎓 Education and learning
+- 🎓 **Engineering in Computer Science and Systems (Licenciatura)** · Universidad de San Carlos de Guatemala · 2024
+- 🔐 **LFD121: Developing Secure Software** · The Linux Foundation · 2026 · [View credential](https://www.credly.com/badges/109204c4-0afb-4bf1-baff-5f8592efd724/public_url)
+- 🏅 **Scrum Fundamentals Certified (SFC)** · SCRUMstudy · 2023 · ID 976783 · [View certificate](https://drive.google.com/file/d/17fnfeEaT0kJDXmE0eHQai6_C-y69gf_b/view)
+- ☁️ **IT Academy: Cloud and Virtualization Concepts** · VMware IT Academy · 2021 · [View credential](https://www.credly.com/badges/21f128d8-9f4a-4d6a-9a00-1e16dbaa3091/linked_in)
+- 🌱 **In progress:** AWS Certified Cloud Practitioner · LLMs and AI agents · English and French (Academia Europea)
 
-### 🎓 Computer Science and Systems Engineering · Licenciatura
+## 🗣️ Languages and availability
 
-Universidad de San Carlos de Guatemala · 2024.
+- 🇬🇹 **Spanish:** primary language · 🇺🇸 **English:** basic, currently studying · 🇫🇷 **French:** beginner, currently studying
 
-### 🏅 Scrum Fundamentals Certified — SFC
-
-SCRUMstudy · May 2023 · Certificate ID: 976783.  
-[View certificate](https://drive.google.com/file/d/17fnfeEaT0kJDXmE0eHQai6_C-y69gf_b/view)
-
-### ☁️ IT Academy: Cloud and Virtualization Concepts
-
-VMware IT Academy · October 2021.  
-[View credential](https://www.credly.com/badges/21f128d8-9f4a-4d6a-9a00-1e16dbaa3091/linked_in)
-
-### 🌱 Current learning
-
-- Preparing for the AWS Certified Cloud Practitioner exam.
-- LLMs, AI agents and orchestration.
-- Studying English and French at Academia Europea.
-
-## 🗣️ Languages and opportunities
-
-- 🇬🇹 **Spanish:** primary language.
-- 🇺🇸 **English:** basic, currently studying; able to read technical documentation and communicate in simple exchanges.
-- 🇫🇷 **French:** beginner, currently studying.
-
-I am interested in opportunities as a Senior Full Stack Developer, Backend Developer, Software Engineer or Python Developer, ideally with Spanish as the main working language.
-
-Seeking fully remote international roles. Available for business travel and open to considering relocation depending on the opportunity.
+Looking for fully remote roles as a Senior Full Stack, Backend, Python Developer or Software Engineer, ideally with Spanish as the main working language. Available for business travel; open to relocation depending on the opportunity.
 
 ## ☕ Beyond coding
 
